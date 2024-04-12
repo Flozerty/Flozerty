@@ -6,7 +6,7 @@
 🔭 My goal is to become an application developer <br>
 :newspaper: <a href="https://flozerty.github.io/portfolio/" target="blank">My Portfolio</a>
 
-![](https://komarev.com/ghpvc/?username=flozerty&color=red)
+![counter](https://komarev.com/ghpvc/?username=flozerty&color=red)
 
 <!-- ## ⚡ Contribution Graph
 
