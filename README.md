@@ -17,7 +17,9 @@
 <br>
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,git,github)
+
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,react,angular,ts,bootstrap,figma&perline=8)
+
 ![My Skills](https://skillicons.dev/icons?i=php,symfony,wordpress,mysql,docker)
 </details>
 
