@@ -1,6 +1,6 @@
 ### Hi there I'm Floris 👋
 
-<a href="https://www.linkedin.com/in/floris-louerat/" target="blank">![My Skills](https://skillicons.dev/icons?i=linkedin)</a> 
+<a href="https://www.linkedin.com/in/floris-louerat/" target="blank">![linkedIn]([https://skillicons.dev/icons?i=linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))</a> 
 
 :triangular_flag_on_post: I'm currently learning PHP / Symfony <br>
 🔭 My goal is to become an application developer <br>
