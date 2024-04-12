@@ -4,7 +4,7 @@
 
 :triangular_flag_on_post: I'm currently learning PHP / Symfony <br>
 🔭 My goal is to become an application developer <br>
-:newspaper: <a href="https://flozerty.github.io/portfolio/">My Portfolio</a>
+:newspaper: <a href="https://flozerty.github.io/portfolio/" target="blank">My Portfolio</a>
 
 <!-- ## ⚡ Contribution Graph
 
