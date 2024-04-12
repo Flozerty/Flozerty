@@ -25,14 +25,14 @@
 ![My Skills](https://skillicons.dev/icons?i=php,symfony,wordpress,mysql,docker)
 </details>
 
-<details open>
+<details>
 <summary>:art: Design</summary>
 <br>
   
 ![My Skills](https://skillicons.dev/icons?i=figma&perline=6)
 </details>
 
-<details open>
+<details>
 <summary>📎 Office</summary>
 <br>
 
