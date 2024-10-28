@@ -25,7 +25,7 @@
 ![My Skills](https://skillicons.dev/icons?i=php,symfony,wordpress,mysql,docker)
 </details>
 
-<details>
+<details open>
 <summary>:art: Design</summary>
 <br>
   
